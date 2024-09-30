@@ -38,7 +38,7 @@ public class login extends AppCompatActivity {
         log = findViewById(R.id.login);
         sign = findViewById(R.id.signupText);
         progressBar = findViewById(R.id.progressBar);
-
+//
 
         log.setOnClickListener(new View.OnClickListener() {
             @Override
